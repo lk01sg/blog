@@ -26,8 +26,9 @@ description: "Reading, synthesis, and open questions on phenotypic approaches, n
 
 _This entry documents an evolving reasoning process rather than a finalized position, serving as groundwork for potential future project development._
 
-**Related Essay:**  
-[Phenotypic Screening as System Interrogation](https://syntesamateria.substack.com/p/phenotypic-screening-as-system-interrogation)
+**Related Essay:**
+
+"When Biology Answers Questions We Haven’t Asked" - Syntesa Journal on Substack
 
 ---
 

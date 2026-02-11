@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ../docs/blog
+  output-dir: docs
 
 # PENTING: Render blog secara independen
 execute:

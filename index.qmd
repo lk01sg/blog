@@ -34,7 +34,7 @@ This blog sits within my broader knowledge ecosystem:
 | Platform | Focus | Content Type |
 |----------|-------|--------------|
 | **Research Log** (here) | Active research process | Working notes, technical docs |
-| [Projects](https://lk01sg.github.io/projects) | Completed work | Portfolio showcase |
+| [Portfolio](https://lk01sg.github.io/portfolio) | Completed work | Portfolio showcase |
 | [Medium](https://medium.com/@lk01sg) | Science communication | Polished articles |
 | [Mastodon](https://genomic.social/@lk01sg) | Community engagement | Quick updates, discussions |
 

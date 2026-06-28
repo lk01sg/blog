@@ -51,8 +51,14 @@ LaTeX, JabRef, Git, Python, and R integrate naturally, but none are mandatory.
 
 Use this structure as the backbone for long-horizon computational biology projects, particularly those involving iterative modeling, multi-modal data, and evolving hypotheses.
 
-## Related Documentation
+***
+
+**Related Documentation:**
 
 A longer, practitioner-oriented explanation and a ready-to-use template version of this folder structure are documented separately:
 
 [https://lk01sg.gumroad.com/l/sf-riset-advanced](https://lk01sg.gumroad.com/l/sf-riset-advanced)
+
+**Related Essay:**
+
+["Two Hours Lost in My Own File System"](https://syntesaletters.substack.com/p/two-hours-lost-in-my-own-file-system) - Syntesa Letters on Substack
